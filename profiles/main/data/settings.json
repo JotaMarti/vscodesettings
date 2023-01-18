@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.guides.bracketPairs": "active",
+    "git.detectSubmodulesLimit": 100,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.singleQuote": true,
+    "workbench.editor.enablePreview": false,
+    "editor.tabSize": 2,
+    "workbench.sideBar.location": "right",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Operator Mono','Droid Sans Mono', 'monospace', monospace",
+    "editor.wordWrap": "on",
+    "explorer.autoReveal": false,
+    "prettier.jsxSingleQuote": true,
+    "prettier.trailingComma": "all",
+    "errorLens.messageBackgroundMode": "none",
+    "errorLens.messageTemplate": "$message $source",
+    "gitlens.advanced.messages": {
+        "suppressCreatePullRequestPrompt": true
+    },
+    "git.autofetch": true,
+    "gitlens.hovers.currentLine.over": "line",
+    "editor.linkedEditing": true,
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "syncSettings.hostname": "workspace-af",
+    "syncSettings.openOutputOnActivity": true
+}
